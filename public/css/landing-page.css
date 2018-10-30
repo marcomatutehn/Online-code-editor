@@ -137,3 +137,18 @@ footer.footer {
   background-color: #7292b3;
   border-color: #7292b3;
 }
+
+#form-login-a{
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0, 0, 0, 0.62);
+  color: #ffffff;
+  width: 350px;
+  height: 600px;
+  border-radius: 3px;
+  padding-top: 25%;
+}
+
+.login{
+  background-image: url(/img/bg-masthead.jpg);
+}
