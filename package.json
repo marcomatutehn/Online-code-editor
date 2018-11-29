@@ -2,15 +2,11 @@
   "name": "codepok",
   "version": "1.0.0",
   "description": "Academic platform",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
-    "start": "node server.js"
-=======
-    "start": "node index.js",
+    "start": "node server.js",
     "postinstall": "ng build --aot -prod"
->>>>>>> 0aa9fd6480a4995729756bce3a424914a77d85db
   },
   "repository": {
     "type": "git",
