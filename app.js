@@ -80,13 +80,14 @@ mongoose.connect(dbConfig.url)
     .then(db => console.log('db.connected'))
     .catch(err => console.log(err));
 
+/*
 /// catch 404 and forward to error handler
 app.use(function(req, res, next) {
     var err = new Error('No encontrado');
     err.status = 404;
     next(err);
 });
-
+*/
 app.use('/', routes);
 app.use('/users', users);
 
