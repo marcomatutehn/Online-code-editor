@@ -6,7 +6,7 @@ router.get('/',function(req, res){
 	res.render('index');
 });
 
-/*
+
 function ensureAuthenticated(req, res, next){
 	if(req.isAuthenticated()){
 		return next();
@@ -15,7 +15,7 @@ function ensureAuthenticated(req, res, next){
 		res.redirect('/users/login');
 	}
 }
-*/
+
 
 module.exports = router;
 
