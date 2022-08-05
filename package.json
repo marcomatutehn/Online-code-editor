@@ -36,7 +36,7 @@
     "express-validator": "^5.3.0",
     "highlight": "^0.2.4",
     "mongodb": "^3.1.8",
-    "mongoose": "^5.3.4",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "passport": "^0.4.0",
     "passport-facebook": "^2.1.1",
